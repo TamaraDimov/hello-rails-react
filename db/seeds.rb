@@ -1,0 +1,5 @@
+Message.create(content: "Welcome! How are you?")
+Message.create(content: "Good morning! How can i help you?")
+Message.create(content: "Hi! Feel free to ask any questions.")
+Message.create(content: "Hi there! Nice to meet you!")
+Message.create(content: "Good morning! Have a great day.")
